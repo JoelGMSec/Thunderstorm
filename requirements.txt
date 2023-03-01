@@ -1,0 +1,11 @@
+requests
+tarfile
+hashlib
+shutil
+ssl
+json
+base64
+argparse
+termcolor
+urllib
+urllib3
