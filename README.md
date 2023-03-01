@@ -1,4 +1,4 @@
-<p align="center"><img width=750 alt="Thunderstorm" src="https://github.com/JoelGMSec/Thunderstorm/blob/main/Thunderstorm.png"></p>
+<p align="center"><img width=500 alt="Thunderstorm" src="https://github.com/JoelGMSec/Thunderstorm/blob/main/Thunderstorm.png"></p>
 
 # Thunderstorm
 **Thunderstorm** is a modular framework to exploit UPS devices. 
@@ -8,16 +8,17 @@ For now, only the CS-141 and NetMan 204 exploits will be available. The beta ver
 
 # CVE
 Thunderstorm is currently capable of exploiting the following CVE:
-CVE-2022-47186 – Unrestricted file Upload # [CS-141]
-CVE-2022-47187 – Cross-Site Scripting via File upload # [CS-141]
-CVE-2022-47188 – Arbitrary local file read via file upload # [CS-141]
-CVE-2022-47189 – Denial of Service via file upload # [CS-141]
-CVE-2022-47190 – Remote Code Execution via file upload # [CS-141]
-CVE-2022-47191 – Privilege Escalation via file upload # [CS-141]
-CVE-2022-47192 – Admin password reset via file upload # [CS-141]
-CVE-2022-47891 – Admin password reset # [NetMan 204]
-CVE-2022-47892 – Sensitive Information Disclosure # [NetMan 204]
-CVE-2022-47893 – Remote Code Execution via file upload # [NetMan 204]
+
+- CVE-2022-47186 – Unrestricted file Upload # [CS-141]
+- CVE-2022-47187 – Cross-Site Scripting via File upload # [CS-141]
+- CVE-2022-47188 – Arbitrary local file read via file upload # [CS-141]
+- CVE-2022-47189 – Denial of Service via file upload # [CS-141]
+- CVE-2022-47190 – Remote Code Execution via file upload # [CS-141]
+- CVE-2022-47191 – Privilege Escalation via file upload # [CS-141]
+- CVE-2022-47192 – Admin password reset via file upload # [CS-141]
+- CVE-2022-47891 – Admin password reset # [NetMan 204]
+- CVE-2022-47892 – Sensitive Information Disclosure # [NetMan 204]
+- CVE-2022-47893 – Remote Code Execution via file upload # [NetMan 204]
 
 
 # Requirements
